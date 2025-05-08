@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Latchel",
+    "slug": "latchel",
+    "description": "Human-like AI that handles tenant texts, maintenance requests, and updates 24/7.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/latchel.jpg",
+    "target_audience_match": "Best for landlords who feel chained to their phone and want tenant texts handled without sounding cold.",
+    "price": "From $25/unit/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Innago AI Assistant",
+    "slug": "innago-ai-assistant",
+    "description": "Free property management platform with built-in AI messaging that mimics your tone.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/innago-ai.jpg",
+    "target_audience_match": "Perfect for solo landlords tired of writing replies from scratch — and not wanting to pay for it.",
+    "price": "Free plan available",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "AppFolio AI Leasing Assistant",
+    "slug": "appfolio-ai-leasing-assistant",
+    "description": "Conversational AI that answers tenant questions instantly and books showings.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/appfolio-ai.jpg",
+    "target_audience_match": "Great for growing PMs who can’t afford delays but want responses to still feel human.",
+    "price": "Part of AppFolio Plus",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Tennille by Hemlane",
+    "slug": "tennille-hemlane",
+    "description": "AI assistant that manages tenant relations with empathy-focused replies.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hemlane-tennille.jpg",
+    "target_audience_match": "Right for emotionally-aware landlords who don’t want to seem distant, even when they’re off duty.",
+    "price": "From $30/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "HelloData",
+    "slug": "hellodata-ai-inbox",
+    "description": "AI inbox and CRM that crafts friendly replies across platforms, synced to your tone.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hellodata.jpg",
+    "target_audience_match": "Ideal for tech-savvy hosts juggling channels but still wanting every message to sound personal.",
+    "price": "From $49/mo",
+    "data-link": "pending"
+  }
+]
